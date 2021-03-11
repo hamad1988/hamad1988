@@ -1,0 +1,14 @@
+<repo>
+	<footerlinks>
+		<link>
+			<name>u/hamdaldhash</name>
+			<url>https://www.reddit.com/user/hamdaldhash</url>
+			<iconclass>fa fa-reddit</iconclass>
+		</link>
+		<link>
+			<name>Steam</name>
+			<url>https://steamcommunity.com/id/hamdaldhash</url>
+			<iconclass>fa fa-steam-square</iconclass>
+		</link>
+	</footerlinks>
+</repo>
